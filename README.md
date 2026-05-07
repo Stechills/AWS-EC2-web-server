@@ -2,7 +2,7 @@
            📌 Project Overview
 This project demonstrates how I launched and configured an AWS EC2 instance to host a live website using Linux and a web server.
                
-               🛠 Technologies Used
+           🛠 Technologies Used
         AWS EC2
         Ubuntu Linux
         Security Groups
@@ -10,22 +10,26 @@ This project demonstrates how I launched and configured an AWS EC2 instance to h
         SSH
         GitHub
               
-              📂 Project Steps
 
- Launch EC2 Instance
+Project steps
+
+Launch EC2 Instance
+
 Logged into AWS Console
-Selected Ubuntu AMI
-Chose t2.micro instance
-Created key pair
-Configured security group
 
- Configure Security Group
+Selected Ubuntu AMI
+
+Chose t2.micro instance
+
+Created key pair
+
+Configured security group;Configure Security Group
 Allowed:
 SSH (Port 22)
 HTTP (Port 80)
 HTTPS (Port 443)
 
- Connect to EC2
+*Connect to EC2*
 Used SSH to connect:
 
 Install Web Server
