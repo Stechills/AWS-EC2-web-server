@@ -1,4 +1,4 @@
-AWS EC2 Web Server Project
+           AWS EC2 Web Server Project
 📌 Project Overview
 This project demonstrates how I launched and configured an AWS EC2 instance to host a live website using Linux and a web server.
 🛠 Technologies Used
