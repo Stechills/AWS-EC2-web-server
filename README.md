@@ -29,29 +29,53 @@ SSH (Port 22)
 HTTP (Port 80)
 HTTPS (Port 443)
 
-*Connect to EC2*
+****Connect to EC2****
 Used SSH to connect:
 
 Install Web Server
+
 For Apache:
+
 Bash
+
 sudo yum update -y
+
 sudo yum install httpd -y
+
 Deploy Website
+
 Added HTML files
+
 Restarted web server
+
 Accessed website using EC2 public IP
-📸 Screenshots
+
+****📸 Screenshots****
+
 EC2 Instance Running
-(Add image here)
+https://github.com/Stechills/AWS-EC2-web-server/blob/main/Screenshot%202026-05-07%20014221.png
+
 Security Group Configuration
-(Add image here)
+https://github.com/Stechills/AWS-EC2-web-server/blob/main/Screenshot%202026-05-07%20014357.png
+
 Live Website
-(Add image here)
+https://github.com/Stechills/AWS-EC2-web-server/blob/main/Screenshot%202026-05-07%20020002.png
+
+CI/CD pipelines
+https://github.com/Stechills/AWS-EC2-web-server/blob/main/Screenshot%202026-05-06%20184756.png
+
+
 ✅ Outcome
+
 Successfully deployed a live website on an AWS EC2 instance accessible through a browser.
+
 📚 Lessons Learned
+
 How EC2 works
+
 Linux server management
+
 Security group configuration
+
 Hosting websites in AWS
+
