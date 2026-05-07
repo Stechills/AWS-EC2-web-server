@@ -1,14 +1,15 @@
            AWS EC2 Web Server Project
-📌 Project Overview
+           📌 Project Overview
 This project demonstrates how I launched and configured an AWS EC2 instance to host a live website using Linux and a web server.
-🛠 Technologies Used
-AWS EC2
-Ubuntu Linux
-Security Groups
-Apache/Nginx
-SSH
-GitHub
-📂 Project Steps
+               🛠 Technologies Used
+        AWS EC2
+        Ubuntu Linux
+        Security Groups
+        Apache/Nginx
+        SSH
+        GitHub
+              
+              📂 Project Steps
 
  Launch EC2 Instance
 Logged into AWS Console
